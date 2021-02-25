@@ -4,7 +4,7 @@ from datetime import date
 
 st.write("""
 # Gamestop stock price
-![alt text](https://i.imgur.com/bE2LMGd.gif "Logo Title Text 1")
+![roaring kitty](https://i.imgur.com/bE2LMGd.gif "DFV likes the stock")
 
 💎🙌🚀🚀🚀💎🙌
 """)
