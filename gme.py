@@ -1,3 +1,4 @@
+# streamlit run gme.py
 import yfinance as yf
 import streamlit as st
 from datetime import date
